@@ -38,4 +38,4 @@ To convert all DTA files in the `input` folder to CSV files in the `output` fold
 ```sh
 python DTAtoCSVconv.py -i input -o output -a
 ```
-
+Note: Most of the code stems from https://github.com/mortenalbring/BES3Tconvert 
